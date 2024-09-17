@@ -1,0 +1,15 @@
+A:\ProgramaçãoWin-Lin\Exercicios-Em-Csharp\Desafio2\bin\Debug\net9.0\Desafio2.exe
+A:\ProgramaçãoWin-Lin\Exercicios-Em-Csharp\Desafio2\bin\Debug\net9.0\Desafio2.deps.json
+A:\ProgramaçãoWin-Lin\Exercicios-Em-Csharp\Desafio2\bin\Debug\net9.0\Desafio2.runtimeconfig.json
+A:\ProgramaçãoWin-Lin\Exercicios-Em-Csharp\Desafio2\bin\Debug\net9.0\Desafio2.dll
+A:\ProgramaçãoWin-Lin\Exercicios-Em-Csharp\Desafio2\bin\Debug\net9.0\Desafio2.pdb
+A:\ProgramaçãoWin-Lin\Exercicios-Em-Csharp\Desafio2\obj\Debug\net9.0\Desafio2.GeneratedMSBuildEditorConfig.editorconfig
+A:\ProgramaçãoWin-Lin\Exercicios-Em-Csharp\Desafio2\obj\Debug\net9.0\Desafio2.AssemblyInfoInputs.cache
+A:\ProgramaçãoWin-Lin\Exercicios-Em-Csharp\Desafio2\obj\Debug\net9.0\Desafio2.AssemblyInfo.cs
+A:\ProgramaçãoWin-Lin\Exercicios-Em-Csharp\Desafio2\obj\Debug\net9.0\Desafio2.csproj.CoreCompileInputs.cache
+A:\ProgramaçãoWin-Lin\Exercicios-Em-Csharp\Desafio2\obj\Debug\net9.0\Desafio2.sourcelink.json
+A:\ProgramaçãoWin-Lin\Exercicios-Em-Csharp\Desafio2\obj\Debug\net9.0\Desafio2.dll
+A:\ProgramaçãoWin-Lin\Exercicios-Em-Csharp\Desafio2\obj\Debug\net9.0\refint\Desafio2.dll
+A:\ProgramaçãoWin-Lin\Exercicios-Em-Csharp\Desafio2\obj\Debug\net9.0\Desafio2.pdb
+A:\ProgramaçãoWin-Lin\Exercicios-Em-Csharp\Desafio2\obj\Debug\net9.0\Desafio2.genruntimeconfig.cache
+A:\ProgramaçãoWin-Lin\Exercicios-Em-Csharp\Desafio2\obj\Debug\net9.0\ref\Desafio2.dll
